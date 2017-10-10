@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from '../components/Header'
-import ExpenseAddExpensePage from '../components/ExpenseAddExpensePage'
+import ExpenseAddExpensePage from '../components/AddExpensePage'
 import ExpenseDashboardPage from '../components/ExpenseDashboardPage'
 import Footer from '../components/Footer'
-import ExpenseEditExpensePage from '../components/ExpenseEditExpensePage'
+import ExpenseEditExpensePage from '../components/EditExpensePage'
 import HelpPage from '../components/HelpPage'
 import NotFoundPage from '../components/NotFoundPage'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
